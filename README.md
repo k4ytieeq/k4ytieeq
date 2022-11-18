@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Fiona:tulip:
+**Welcome to my GitHUb! <3**
 
-<!--
-**k4ytieeq/k4ytieeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*SCHEDULE*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|         |DAY 1| DAY 2| DAY3 | DAY 4| DAY 5| 
+|---------|-----|------|------|------|------|
+|7:35-8:00|  HR | HR   |  HR  |  HR  |  HR  |
+|8:10-9:00|  PE |MUSIC |PE    |*study period*|SCIENCE|
+|9:10-10:00|ENGLISH|SCIENCE|ENGLISH|ENGLISH|SCIENCE|
+|10:10-11:00|WNGLISH|SCIENCE|SCIENCE|ENGLISH|ENGLISH|
+|11:10-12:00|LUNCH BREAK|
+|12:10-1:00|SCIENCE|COMPUTER|MUSIC|COMPUTER|*study period*|
+|1:10-2:00|SCIENCE|ENGLISH|COMPUTER|PE|COMPUTER|
+|2:00-2:10|*examen*|*examen*|*examen*| |   |
+|2:10-3:00|||||MUSIC|
+|3:00-3:10||||*examen*|*examen*|
