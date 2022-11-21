@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Fiona:tulip:
-**Welcome to my GitHUb! <3**
+**Welcome to my GitHub! <3**
 
  >9-Pro
 
