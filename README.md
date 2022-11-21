@@ -2,7 +2,7 @@
 ### Hi there, I'm Fiona:tulip:
 **Welcome to my GitHUb! <3**
 
-*SCHEDULE*
+'*SCHEDULE*'🎀
 
 |         |DAY 1| DAY 2| DAY3 | DAY 4| DAY 5| 
 |---------|-----|------|------|------|------|
@@ -21,4 +21,12 @@
 
 [GBOX ACCOUNT](https://mail.google.com/mail/u/0/#inbox) :moon:
 
+[CLASS SCHEDULE](https://docs.google.com/spreadsheets/d/1StSO-4w4YGMcVNkV_uAYCMGAZ_i5rjrXj7O_jBaCrQA/edit#gid=0) :calendar:
+
 ![alt text](https://i.pinimg.com/originals/e4/80/db/e480db51e2b35802ed8a0a93ea104cc8.jpg)
+
+**`to do`**
+
+- start on schoolworks
+- finish the GitHub activity
+- advance read :book:
