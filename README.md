@@ -2,6 +2,8 @@
 ### Hi there, I'm Fiona:tulip:
 **Welcome to my GitHUb! <3**
 
+ >9-Pro
+
 '*SCHEDULE*'🎀
 
 |         |DAY 1| DAY 2| DAY3 | DAY 4| DAY 5| 
@@ -27,6 +29,8 @@
 
 **`to do`**
 
-- start on schoolworks
-- finish the GitHub activity
-- advance read :book:
+- [ ] start on schoolworks
+- [ ] finish the GitHub activity
+- [x] advance read :book:
+
+
