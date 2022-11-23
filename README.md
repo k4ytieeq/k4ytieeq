@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Fiona:tulip:
-**Welcome to my GitHub! <3**
+ **<span style="color: pink">-Welcome to my GitHub!<3-</span>**
 
  >9-Pro
 
